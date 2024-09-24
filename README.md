@@ -7,6 +7,9 @@ There is a list of my mini Web Development project's live link. You can use the 
 
 1. CafeMenu: https://002cafemenu.netlify.app
 2. Registration Form: https://004registrationform.netlify.app
+3. Cat Photo Gallery: https://005catphotogallery.netlify.app
+4. Nutrition Label: https://006nutritionlabel.netlify.app
+5. City SkyLine: https://007cityskyline.netlify.app
 
 
 ## Javascript Projects
